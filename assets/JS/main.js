@@ -32,3 +32,5 @@ function playKey(e) {
 
     //Adding an event listener to the keys
     window.addEventListener("keydown", playKey);
+
+    
